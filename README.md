@@ -1,4 +1,4 @@
-# GraphQL Chat
+# GraphQL Chat (in progress)
 
 
 It shows how to use subscriptions with Apollo Server for Express, Apollo Client, and GraphQL-WS.
